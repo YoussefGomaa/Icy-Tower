@@ -1,0 +1,38 @@
+﻿  MYPROJECT.cpp
+e:\icytower\myproject\myproject\options_menu.h(3): warning C4005: 'Max_Number_items': macro redefinition
+  e:\icytower\myproject\myproject\mainmenu.h(3): note: see previous definition of 'Max_Number_items'
+e:\icytower\myproject\myproject\soundmenu.h(3): warning C4005: 'Max_Number_items': macro redefinition
+  e:\icytower\myproject\myproject\options_menu.h(3): note: see previous definition of 'Max_Number_items'
+e:\icytower\myproject\myproject\myproject.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\icytower\myproject\myproject\myproject.cpp(207): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\icytower\myproject\myproject\myproject.cpp(208): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\icytower\myproject\myproject\myproject.cpp(209): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\icytower\myproject\myproject\myproject.cpp(339): warning C4305: '=': truncation from 'double' to 'float'
+e:\icytower\myproject\myproject\myproject.cpp(357): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(399): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(403): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(433): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(608): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(722): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(744): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(769): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(1131): warning C4305: '-=': truncation from 'double' to 'float'
+e:\icytower\myproject\myproject\myproject.cpp(1243): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+e:\icytower\myproject\myproject\myproject.cpp(1787): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(1794): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(1857): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(1884): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\icytower\myproject\myproject\myproject.cpp(1943): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MYPROJECT.vcxproj -> E:\ICYTOWER\MYPROJECT\Debug\MYPROJECT.exe
